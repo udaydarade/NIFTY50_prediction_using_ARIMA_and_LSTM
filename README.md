@@ -25,7 +25,7 @@ git clone https://github.com/your-username/NIFTY50-Prediction-ARIMA-LSTM.git
 
 ### Step 3: Run the Notebook
 
-1. Follow the instructions in the notebook to run each cell.
+1. Follow the instructions in the notebook .
 2. Ensure that the ARIMA model is trained first, followed by the LSTM model.
 3. The notebook will display the results, including the final predictions and the RMSE.
 
