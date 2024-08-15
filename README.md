@@ -20,14 +20,7 @@ git clone https://github.com/your-username/NIFTY50-Prediction-ARIMA-LSTM.git
 1. Open Google Colab here.
 2. Click on `File` > `Upload Notebook`.
 3. Select the `NIFTY50_Prediction.ipynb` file from the cloned repository.
-4. Upload the `NIFTY_50_Data.csv` file by using the following command in a new cell:
-    
-    ```python
-    pythonCopy code
-    from google.colab import files
-    uploaded = files.upload()
-    
-    ```
+4. Upload the `NIFTY_50_Data.csv` file when it asks you once you start running the code.
     
 
 ### Step 3: Run the Notebook
